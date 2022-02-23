@@ -1,0 +1,1383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The convenant-interest and privilege of believers and their infants clearly demonstrated in a letter to a religious lady / by a minister of the Gospel.</title>
+            <author>Minister of the Gospel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34780</idno>
+            <idno type="STC">Wing C6617</idno>
+            <idno type="STC">ESTC R38827</idno>
+            <idno type="EEBO-CITATION">18176259</idno>
+            <idno type="OCLC">ocm 18176259</idno>
+            <idno type="VID">106885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1122:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The convenant-interest and privilege of believers and their infants clearly demonstrated in a letter to a religious lady / by a minister of the Gospel.</title>
+                  <author>Minister of the Gospel.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for, and sold by Jonathan Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect : tightly bound with slight loss of print; best copy available for photographing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenant theology.</term>
+               <term>Infant salvation.</term>
+               <term>Grace (Theology)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106885:1"/>
+            <pb facs="tcp:106885:1"/>
+            <p>THE Covenant-Intereſt AND PRIVILEGE OF BELIEVERS and their INFANTS Clearly Demonſtrated IN A LETTER TO A RELIGIOUS LADY.</p>
+            <p>By a Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inted for, and ſold by <hi>Jonathan Robinſon,</hi> at the Golden <hi>Lyon</hi> in S. <hi>Pauls</hi> Church-yard. 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106885:2"/>
+            <pb n="1" facs="tcp:106885:2"/>
+            <opener>
+               <salute>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ADAM,</hi>
+               </salute>
+            </opener>
+            <p>THe Propoſition which I ſhall lay down, and prove to you out of the Sacred Scriptures, is this, That the <hi>Covenant</hi> of Grace un<g ref="char:EOLhyphen"/>der the new Adminiſtration of it, comprehends viſible Believ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and their Infants: Or thus, The Covenant <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>endeth not only to the believing Parent, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his, or her <hi>Infant ſeed</hi> alſo. That we may
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vent miſtakes, we muſt here diſtinguiſh be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ixt <hi>foedus internum</hi> and <hi>externum:</hi> Or thus
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may apprehend it; The Covenant of Grace <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y be either ſtrictly conſidered as an <hi>abſolute</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>miſe of ſaving Grace, and ſo none but the e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are in
+<hi>Covenant</hi> with God: Or the Covenant
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y be conſidered more largely, in reſpect of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ernal Adminiſtration, or outward privi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ges; and ſo the <hi>Covenant</hi> in a true Scripture<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, may be ſaid viſibly to comprehend and be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g to many perſons that ſhall not be infallibly
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d; viſible Believers and their Infants do <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s belong to the
+<hi>Covenant,</hi> or the <hi>Covenant</hi> be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gs to them: All that are members of the vi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Church of Chriſt, have a viſible right and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eſt in the Covenant of Grace; the <hi>Covenant</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ongs to them in <hi>facie viſibilis Eccleſiae.</hi> Now
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y are members of the viſible Church of <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iſt, who are not real members of the myſti<g ref="char:EOLhyphen"/>cal <pb n="2" facs="tcp:106885:3"/>inviſible body of Chriſt: Many are branches of Chriſt the Vine in outward appearance, <hi>Joh.</hi> 15.2. who wither and are cut off, thus it was with <hi>Judas, Simon Magus, Demas</hi> and thoſe of whom the Apoſtle <hi>John</hi> ſpeaks, <hi>They went out from us, but they were not of us, for if they had been of us, they would no doubt have con<g ref="char:EOLhyphen"/>tinued with us: But they went out that they migh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be made manifeſt that they were not all of us.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> John 2.19. This is a point that ſome Profeſ<g ref="char:EOLunhyphen"/>ſors of the Goſpel ſeem to ſtartle at; namely That Infants ſhould be reckoned and reputed t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have a viſible intereſt in the Covenant of Grac<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and to be members of the viſible Church o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt, and to receive the Seal of their membe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſhip in their Infancy: But there are othe<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (and my ſelf amongſt them) that look at th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Covenant of Grace, as far more deſireable an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfortable in this reſpect; becauſe it extend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not only to Believers, but to their Infants.</p>
+            <p>For the better clearing and confirming t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Covenant-intereſt of Believers Infants,</hi> I ſhall pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pound ſome ſerious
+<hi>Conſiderations.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Conſider (I beſeech you) that ev<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſince God made a Covenant with his people, I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fants were included and comprehended in t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Covenant with their Parents, and were repu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and reckoned to belong to the Family and Kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dom of God, in oppoſition and contrad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtinction to the reſt of the world, which is t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Kingdom of Satan. For indeed, either the I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fants of the Godly do viſibly belong to t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Kingdom of God, or they viſibly belong to t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Kingdom of Satan, there being no other viſib<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <pb n="3" facs="tcp:106885:3"/>Kingdom beſides theſe two, which they can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elate unto: In thoſe <hi>Covenants</hi> which concern
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivil affairs, it is an uſual thing to include chil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren, though the children themſelves do not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctually <hi>ſeal,</hi> or give their actual conſent to
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch a <hi>Grant</hi> or Leaſe, together with their Pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents; where hath God at any time made a Covenant with any of his people, but that Co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enant did alſo comprehend their children and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſterity? The Lord made a Covenant with <hi>Noah, Gen.</hi> 9. and that <hi>Covenant</hi> did alſo reach <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Poſterity; he made a <hi>Covenant</hi> with <hi>Abra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am, Gen.</hi> 17. and that Covenant did alſo reach
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Poſterity; he made a Covenant with <hi>Phine<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, Numb.</hi> 25. which did alſo reach his Poſte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity; God made a <hi>Covenant</hi> with <hi>David, Pſal.</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>9.28. and this alſo did extend to his Poſteri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y. Yea it is evident that the Parents owning <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e
+<hi>Covenant,</hi> was reckoned not only as owning
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for themſelves, but alſo for their children; <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ough the children themſelves (whileſt Infants)
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id not actually conſent to the
+<hi>Covenant</hi> in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn perſons.</p>
+            <p>
+               <hi>Secondly,</hi> Conſider further, that the Infants of
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elievers were once reckoned and reputed to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elong viſibly to the
+<hi>Covenant</hi> and Church of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, and did receive the Seal of their admiſſion
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>to the Church of God. (I ſpeak not here <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ly or chiefly of a particular, viſible Church, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t of the univerſal, viſible Church:) The
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oſt ingenious and judicious of our diſſenting <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ethren will acknowledge this, that Infants <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d once viſibly belong to the <hi>Covenant</hi> and King<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om of God; well then, the Infants of Gods
+<pb n="4" facs="tcp:106885:4"/>people were once viſibly in <hi>Covenant,</hi> and mem<g ref="char:EOLhyphen"/>bers of the Church of God: Now where do w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> find that this foederal or <hi>Covenant-intereſt</hi> and Church-memberſhip of Infants was ever repeal<g ref="char:EOLunhyphen"/>ed, or made void by the conſtitution of God<g ref="char:punc">▪</g> It concerns thoſe that diſſent from us to prov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that it is made void; we have the <hi>Negative</hi> her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let our Brethren prove the <hi>Affirmative</hi> if the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can; Namely, that the <hi>Species</hi> of Infants is ca<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> out of the <hi>Covenant</hi> and Church of God. Ce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tainly Infants are now as capable of a viſib<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Covenant-intereſt</hi> and Church-memberſhip,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they formerly were; and it is no priviledge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Believer to have his children caſt out of Go<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> viſible Family and Kingdom.</p>
+            <p>That I may confirm this to you, and ſilen<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the contrary objections; let us obſerve theſe ſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or ſeven particulars. 1. If there had been ſu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a repeal of the <hi>Covenant-intereſt</hi> and Churc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>memberſhip of Believers Infants, now in t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> days of the New Teſtament, doubtleſs it wou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have been mentioned in the Scriptures of t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> New Teſtament, ſeeing it is clearly held for<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the Old Teſtament, that Believers Infa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were ſometimes viſibly in
+<hi>Covenant</hi> with Go<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and members of his viſible Church: <hi>I will b<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God to thee, and to thy Seed.</hi> Gen. 17.7. A<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God entered into <hi>Covenant</hi> not only with t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Parents, but with their <hi>little ones,</hi> as plainly a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pears, <hi>Deut.</hi> 29.10.11.12. Where we find t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> children taken into <hi>Covenant</hi> with their Parent<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Let not any pretend, that this was a priviled<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> proper only to the <hi>Jews</hi> and their children und<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that <hi>paedagogical</hi> Adminiſtration; for Infa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="5" facs="tcp:106885:4"/>were Church members long before <hi>Circumciſion</hi> was inſtituted, and they were ſo in the <hi>Wilder<g ref="char:EOLhyphen"/>neſs</hi> when <hi>Circumciſion</hi> was omitted; yea, and this privilege of Church-memberſhip, did not only belong to the natural Jews and their chil<g ref="char:EOLhyphen"/>dren, but alſo to the <hi>Gentile</hi> Proſelytes, who owned the God of <hi>Iſrael,</hi> to them and their children. 2. If this privilege were abrogated,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd taken away from the Infants of Believers, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urely God would have beſtowed as good or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter in the place of it: But where do we find <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Book of God that he hath done ſo? In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed we find that ſome of the Branches, <hi>to wit,
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Jews;</hi> they and their children were broken <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff by unbelief from the viſible Church: <hi>Rom.</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.17. But it was not all the
+<hi>Jews:</hi> For as <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uching the believing <hi>Jews</hi> and their children,
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey were not broken off, but did ſtill remain in <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e
+<hi>Olive</hi> tree; nor do we find one word or ſyl<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ble in the Scriptures, that makes for the repeal
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d abrogation of the Covenant-right and Church-memberſhip of Believers children. 3. Chriſt came not to put Believers and their chil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren in a worſe condition than they were before.
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that would not accuſe the woman taken in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dultery, but asked her where her accuſers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere:
+<hi>John</hi> 8.10.11. Will he (who is ſo com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſſionate and tender-hearted) caſt all Infants
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t of his viſible Kingdom without accuſation? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubtleſs it is a far worſe condition to be out of
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e viſible Church of God than in it: For or<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>narily (what God may do in an extraordinary <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y I queſtion not) there is no ſalvation to be had
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tin the viſible Church of Chriſt: This is the<pb n="6" facs="tcp:106885:5"/>family of Chriſt; this is the houſe of God: <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Tim.</hi> 3.15. And the Lord is ſaid to <hi>add to the Church ſuch as ſhould be ſaved: Acts</hi> 2.47. And they that do not belong to Chriſts viſible King<g ref="char:EOLhyphen"/>dom, are ſaid to be <hi>Aliens and Strangers from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Common-wealth of Iſrael, and the Covenants
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> promiſe, having no hope, and without God in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> world. Epheſ.</hi> 2.12. 4. <hi>The Kingdoms of th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> world ſhall become the Kingdoms of the Lord an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his Chriſt: Rev.</hi> 11.15. Which undoubtedly is meant of the viſible Church of Chriſt, in re<g ref="char:EOLunhyphen"/>ſpect of viſible Church-memberſhip, Ordinance<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Privileges; and if ſo, how can we otherwi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> think, but that this Kingdom will include an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take in the
+<hi>Species</hi> of Infants, as members there<g ref="char:EOLunhyphen"/>of? It is alſo propheſied
+<hi>Dan.</hi> 2.34.35. Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the little ſtone cut out without hands (which
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meant of the viſible Kingdom of Chriſt) thoug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it be ſmall at firſt, yet in the later days it ſhall be<g ref="char:EOLunhyphen"/>come a great Mountain, and fill the whole earth<g ref="char:punc">▪</g> which certainly will comprehend the Infants
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Believers: Yea, and when the Jews are re-ingrafte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the Olive tree, their children ſhall be re-i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>grafted with them, and ſhall be as aforetime:
+<hi>Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 11.24.25.
+<hi>Jer.</hi> 30.20. By what I have alread<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid, it is evident that the Covenant intereſt an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church-memberſhip of Infants is not abrogate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 5. If the children of Believers now ſhould
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> excluded from viſible Church-memberſhip an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> intereſt in the Covenant, they would be in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſe condition than the very children of t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Gentiles were before the coming of Chri<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:punc">▪</g> For in the times of the Old Teſtament, if a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Gentile or ſtranger did accept the Covenan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+               <pb n="7" facs="tcp:106885:5"/>and own the God of <hi>Iſrael,</hi> not only he, but his children alſo were admitted members of the Church, and reckoned to belong to the Cove<g ref="char:EOLhyphen"/>nant and Kingdom of God. But according to the opinion of our diſſenting Brethren, if now the Parent accept the Covenant, he himſelf in<g ref="char:EOLhyphen"/>deed ſhall be admitted, but his Infant-ſeed ſhall not be admitted to a viſible member-ſhip of the Church of Chriſt; ſo that we are in a worſe caſe in this reſpect, than the Gentile Proſelytes were in the time of the Old Teſtament. 6. The Lord hath ſaid <hi>Exod.</hi> 20.
+<hi>That he will ſhew mercy to thouſands of them that love and obey him;</hi> which certainly extends to the children of the Faith<g ref="char:EOLhyphen"/>ful, ſo far as to admit and entitle them to a vi<g ref="char:EOLhyphen"/>ſible Member-ſhip of his Church: Doth God take care of Oxen; are the very hairs of our head numbered by him, and will he not (think you) viſibly own, and bleſs the poor Infants of his people who are ſo dear to him? 7. There are Goſpel Prophecies and promiſes which relate to the children and Seed of the godly: The Pſalmiſt tells us, that the Seed of the righteous are bleſſed. <hi>Pſal.</hi> 37.26. <hi>I will pour out my Spi<g ref="char:EOLhyphen"/>rit</hi> (ſaith the Lord) <hi>upon thy Seed, and my Bleſſing upon thine Offſpring, and they ſhall ſpring up as among the Graſs. Iſaiah</hi> 44.3,4. The Lord ſpeaking of his people in Goſpel times ſaith, that he <hi>will make an everlaſting Covenant with them, and their Seed ſhall be known among the Gentiles, and their Offſpring among the people, all that ſee them ſhall acknowledge them that they are the Seed which the Lord hath bleſsed. Iſaiah.</hi> 61.8.9. And again Chapter
+65.17,18,19,20. The<pb n="8" facs="tcp:106885:6"/>
+               <hi>The Lord ſaith, there ſhall be no more an Infant of days, nor an old man that hath not filled his days, for the child ſhall die an hundred years old, but the ſinner being an hundred years old ſhall be accurſed,</hi> and verſe 23. <hi>Theſe are the ſeed of the bleſſed of the Lord, and their off-ſpring with them.</hi> It is alſo propheci<g ref="char:EOLhyphen"/>ed, <hi>Iſai.</hi> 49.22. of the times of the Goſpel, how God <hi>will lift up his hand to the Gentiles, and ſet up his ſtandard to the people, and they ſhall bring their ſons in their Arms, and their daughters ſhall be car<g ref="char:EOLhyphen"/>ried on their ſhoulders.</hi> And is it not evident from theſe and the like Prophetical expreſſions in the holy Scriptures, that there are external viſible pri<g ref="char:EOLhyphen"/>viledges of the Covenant and Goſpel of Chriſt be<g ref="char:EOLhyphen"/>longing to the ſeed of the Godly, which do not be<g ref="char:EOLhyphen"/>long to others?</p>
+            <p>
+               <hi>Thirdly,</hi> Let us conſider, that whoſoever denies the
+<hi>viſible</hi> Church-memberſhip and Covenant-in<g ref="char:EOLhyphen"/>tereſt of Believers
+<hi>Infants,</hi> and holds that the <hi>Co<g ref="char:EOLhyphen"/>venant</hi> of Grace doth not viſibly belong to ſuch <hi>Infants,</hi> leaves <hi>Parents</hi> without any viſible ground of hope touching the juſtification and ſalvation of their Children that die in <hi>Infancy,</hi> I ſay viſible ground of hope. As for Gods <hi>eternal</hi> election, or the <hi>will</hi> of his purpoſe, this is a <hi>ſecret</hi> thing, <hi>and ſecret things belong to God, but revealed things be<g ref="char:EOLhyphen"/>long to us and our Children, Deut.</hi> 29.29. If we hold not that the <hi>ſpecies</hi> of Infants do viſibly be<g ref="char:EOLhyphen"/>long to the Covenant and Church of God: It will then follow that there is no viſible ground of hope concerning them: No man, woman, or child doth or can appear to us to be a
+<hi>member</hi> of the <hi>inviſible</hi> Church and myſtical body of Chriſt, unleſs it be declared by God in his word, or elſe
+<pb n="9" facs="tcp:106885:6"/>by the <hi>viſible</hi> profeſſion and converſation of the party, that he or ſhe belongs to the viſible Church of Chriſt. In the proſecution of this, three things may be noted, (1) That ſound
+<hi>hope</hi> and charity are regulated and guided by Judgment, they muſt be grounded upon the <hi>Rule</hi> of Gods word, and our judgment muſt have ſome Scripture evidence to proceed on, or elſe it is but raſh and blind: Now where there is not ſo much as an <hi>outward</hi> ap<g ref="char:EOLhyphen"/>pearance or viſibility of Church-memberſhip, there is no evidence for us to build upon, and conſe<g ref="char:EOLhyphen"/>quently no right judgment or well grounded <hi>hope.</hi> If therefore the Infants of Believers do not ſo much as viſibly and
+<hi>externally</hi> belong to the Co<g ref="char:EOLhyphen"/>venant and Kingdom of God, then they are not viſibly in a ſtate of Grace and Salvation; and ſo there is no viſible ground of our hope touching their ſalvation. (2) Our hope muſt rely on a word of <hi>promiſe,</hi> or elſe it is but <hi>vain</hi> hope, it muſt have a word from God to bottom upon, as you may ſee in theſe Scriptures, <hi>Rom.</hi> 15.4.13. <hi>Eph.</hi> 2.12. 2 <hi>Theſſ.</hi>
+2.16. 1 <hi>Tim.</hi> 1.1. <hi>Heb.</hi> 6.18,19. 1 <hi>Pet.</hi> 3.15.
+<hi>Rom.</hi> 4.18.20. Now take away the viſible Church-memberſhip and Covenant-intereſt of Believers Infants, and there is no promiſe in Gods word for their Salvation; for we find not any promiſe for the ſalvation of thoſe perſons that are without the viſible Church of Chriſt, (3) If any ſhall object that God <hi>hath mercy on whom he will have mercy, Rom.</hi>
+9.18. And our Children may be elected for ought we know and conſequently ſaved: This is nothing to the purpoſe, for ſtill I demand what viſible ground of hope you have in reference to your Infants, if they die in their in<g ref="char:EOLhyphen"/>fancy<pb n="10" facs="tcp:106885:7"/>more than wicked men have; thus it may be ſaid touching the children of <hi>Jews, Turks, Hea<g ref="char:EOLhyphen"/>thens,</hi> ſome of them may belong to the <hi>Election</hi> of Grace, the Children of the moſt wicked men may be elected for ought we know: But we ſpeak now of a <hi>revealed</hi> declared intereſt in the <hi>Covenant</hi> of Grace, nor is Gods favour to believing Parents themſelves a ſufficient ground of Chriſtian hope touching their Infants, but as it is bottom'd up<g ref="char:EOLhyphen"/>on the <hi>Covenant</hi> and promiſe of God made with them and their ſeed, <hi>Gen.</hi> 17.7.</p>
+            <p>
+               <hi>Queſt.</hi> But where have godly Parents viſible ground of hope (may you ſay) touching the ſal<g ref="char:EOLhyphen"/>vation of their children that die in Infancy?</p>
+            <p>
+               <hi>I anſwer,</hi> (1) God hath aſſured us in his word that he will be merciful to the ſeed of the godly, and that in oppoſition to the ſeed of the wicked on whom he will viſit the ſins of their Fathers. That the <hi>ſeed</hi> of the Righteous are <hi>bleſſed, that their children are the heritage of the Lord, and the fruit of the womb is his reward, Pſal.</hi> 127.3,4,5. Here is viſible ground of Chriſtian hope in reference to our children, if they die in Infancy, or live to years of diſcretion, unleſs they prophanely reject the grace of the Covenant as
+<hi>Jſhmael</hi> and <hi>Eſan</hi> did. And the like may be ſaid of
+<hi>viſible</hi> profeſſors that are baptized at years of diſcretion, for if they <hi>Apoſtatize</hi> from God (as many have done) the Lord will caſt them off and reject them. (2) we have alſo viſible ground of
+<hi>hope</hi> touching the ſal<g ref="char:EOLhyphen"/>vation of our Infants from Chriſts
+<hi>tender</hi> and loving carriage towards <hi>Infants</hi> when he was upon earth. He took up <hi>Infants</hi> in his Arms, embraced and <hi>bleſsed</hi> them, ſharply rebuked his <hi>diſciples</hi> for their<pb n="11" facs="tcp:106885:7"/>
+               <hi>churliſhneſs</hi> towards them, and declared <hi>that of ſuch is the kingdom of Heaven, Luk</hi> 18.15,16 O the tender compaſſions and bowels of our ſweet Saviour! He that was an <hi>Infant</hi> himſelf, is the Head and <hi>Mediator</hi> of the Church, and hath ſancti<g ref="char:EOLhyphen"/>fied the ſtate and age of Infancy: <hi>Peter</hi> alſo tells us after the aſcenſion of Chriſt, that <hi>the promiſe is to us and to our Children, Acts.</hi>
+2.38,39. And the Apoſtle <hi>Paul</hi> ſaith that <hi>the children of a Believer are holy,</hi> 1 <hi>Cor.</hi> 7.14. And doubtleſs the <hi>new</hi> Te<g ref="char:EOLhyphen"/>ſtament adminiſtration (which we live under) is as free, merciful, and gracious or rather more free and merciful in reference to Believers and their
+<hi>Infants;</hi> than the adminiſtration of the old Te<g ref="char:EOLhyphen"/>ſtament was, and is not here viſible ground of hope? God is <hi>love</hi> it ſelf, and often compares his love to the love and pitty of a tender-hearted Fa<g ref="char:EOLhyphen"/>ther or Mother towards the Child, <hi>Numb.</hi> 11.12. <hi>Iſai.</hi> 49.15.
+<hi>Pſal.</hi> 103.13. 1 <hi>Theſſ.</hi> 2.7. (3) We find that ſome
+<hi>Infants</hi> were ſanctified in and from the womb, as <hi>Jeremiah</hi> and John <hi>Baptiſt,</hi> and children are as capable of regeneration and ſalva<g ref="char:EOLhyphen"/>tion as grown perſons: We are as <hi>paſſive</hi> in our Regeneration or firſt <hi>Implantation</hi> into Chriſt as a little child, and muſt receive the Kingdom of heaven as <hi>a little child,</hi> we find alſo promiſes of ſalvation in Scripture made to Houſholds,
+<hi>Acts.</hi> 16.34, <hi>&amp;c.</hi> And Chriſt ſaith to <hi>Zacheus, This day is ſalvation come to this houſe foraſmuch as thou art a Son of</hi> Abraham. <hi>Luk.</hi> 19.9. And we are ſure that Infants are a good conſiderable part of the <hi>houſhold.</hi> (4) The Apoſtle <hi>Paul</hi> would not have Believers <hi>mourn exceſſively for their dead friends, as thoſe that are without hope.,</hi> 1 <hi>Theſſ.</hi> 4.13. Be it
+<pb n="12" facs="tcp:106885:8"/>their children that die in Infancy or any other: The Apoſtle ſpeaks of the dead in General, and there<g ref="char:EOLhyphen"/>fore it muſt needs include the Species of Infants, Parents being more apt to grieve and mourn for their children than for any other. And here <hi>Paul</hi> ſpeaks of the hope of their glorious Reſurrection for whom they mourn'd: But now if our Infants do not viſibly belong to the Covenant and Church of God, we cannot have a well grounded hope touching their ſalvation, but ſhall mourn for them as without hope if they die in Infancy. (5) <hi>Da<g ref="char:EOLhyphen"/>vid</hi> comforteth himſelf touching his dead Child, 2. <hi>Sam.</hi> 12.23. that he ſhould go to him though the child was not begot in lawful Matrimony: Now the meaning is not that
+<hi>David</hi> ſhould be buried with the Child (for what ground of comfort doth this afford) but that he ſhould be eternally happy with the child in glory: And doubtleſs the like or greater ground of hope every faithful Parent hath for his Children begotten in lawful Matrimony who die in their Infancy. We ſhould likewiſe re<g ref="char:EOLhyphen"/>member that children did appear and joyn with their Parents in ſtanding Church ordinances, as ſo<g ref="char:EOLhyphen"/>lemn faſting and prayer, &amp;c. 2 <hi>Chron.</hi> 20.13. <hi>Deut.</hi> 29,10. The Children that ſucked the Breaſt were to be gathered to the ſolemn Faſt,
+<hi>Joel.</hi> 2.16. Which doth further evince and prove the viſible Church-memberſhip and Covenant-intereſt of be<g ref="char:EOLhyphen"/>lievers Infants, and that there is ſtrong ground of hope that God will bleſs them and bleſs theſe Or<g ref="char:EOLhyphen"/>dinances to them: And if it be granted by out Brethren, that the children of the Godly do viſibly belong to the Covenant &amp; Church of God, and that we have viſible ground of hope concerning them<pb n="13" facs="tcp:106885:8"/>there will be an end of the controverſie about In<g ref="char:EOLhyphen"/>fant-baptiſm amongſt judicious and ſober Chriſti<g ref="char:EOLhyphen"/>ans; ſeeing Baptiſm (which is the ſeal of the Co<g ref="char:EOLhyphen"/>venant and of Church-memberſhip) doth belong to all them that are viſibly in the Covenant and Church of God: For, if they have viſibly the grace of the Covenant which is the greater, then they ought to have the viſible ſeal of the Covenant which is the leſſer: I ſpeak now of Baptiſm (which is the firſt ſeal of Regeneration, wherein we are meerly paſſive) for as touching the other Sacra<g ref="char:EOLhyphen"/>ment, it is required that every man ſhould examine himſelf before he partake of it, 1 <hi>Cor.</hi> 11.28. Though we ſay and can prove, that the Infants of Believers are Church-members in reſpect of Gods Covenant and grant, and ought to receive the ſeal of their admiſſion; yet they are not ſuch compleat members in all reſpects, as to capacitate them for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Church ordinances and priviledges together
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith their godly parents, till ſuch time as they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves profeſs their faith in the Covenant
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd promiſes of God, and engage themſelves to God in their own perſons when they come to riper
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears. Thus much of the third conſideration.</p>
+            <p>The Fourth Conſideration is this, That it is the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uty and hath been the practice of believing pa<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents from time to time (as we find in Scripture) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o take hold on the Covenant and to exerciſe faith
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Covenant, not only with reference to them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves but alſo with reference to their children; ey<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g the Covenant of Grace as comprehending both
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves and their Infant-ſeed: And according<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they have improved and pleaded the Covenant
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith God, when they have made their addreſſes<pb n="14" facs="tcp:106885:9"/>to him, this, godly parents have formerly done, and this we ought to do ſtill. For the proof and confirmation of this point take a few inſtances out of Scripture. (1) We find <hi>David</hi> 2
+<hi>Sam</hi> 23.5. pleading Gods Covenant made with him not only for himſelf, but for his houſe and children, though my houſe (ſaith he) be not ſo with God, yet he hath made with me an everlaſt<g ref="char:EOLhyphen"/>ing Covenant, it being uſual in Scripture when houſholds are ſpoken of, to intend the children (though they be not particularly mentioned) <hi>Gen.</hi> 30.30. <hi>Gen.</hi>
+45.11,18,19. <hi>Exod.</hi> 4.1 2 <hi>Sam.</hi> 27.3. <hi>Prov.</hi> 31.15.
+<hi>Luk.</hi> 12.42. Yea the chil<g ref="char:EOLhyphen"/>dren are chiefly intended by the houſhold 1
+<hi>Sam.</hi> 20.15. 2 <hi>Sam.</hi> 9.9 1 <hi>Kings.</hi> 17.12.13.15.
+<hi>Pſal<g ref="char:punc">▪</g>
+               </hi> 127.1.3 <hi>Prov.</hi> 12.7. <hi>Iſai.</hi> 31.2.
+<hi>Hoſ.</hi> 1.4. <hi>Hab.</hi> 2.9,10. 1 <hi>Tim,</hi> 3,4,5, and 1
+<hi>Tim.</hi> 5.4,8,14. compared with 2 <hi>Tim.</hi> 1.16. children being the ordinary inſtruments to continue and uphold the houſe, as in natural and civil ſo in religious and eccleſiaſtical reſpects: And hence they are builden of the houſe both ways, as the hebrew radix ſig<g ref="char:EOLhyphen"/>nifies from which the word uſed for ſons and daughters is derived: And hence alſo we have that phraſe of Gods building the women houſes, <hi>Exod.</hi> 1.21. And here in this inſtance of <hi>David</hi> that godly man [where he ſaith, although my houſe be not ſo with God yet <hi>&amp;c.</hi>] he exerciſeth faith in the Co<g ref="char:EOLhyphen"/>venant which was a gracious Covenant with re<g ref="char:EOLhyphen"/>ſpect unto his houſe, and therefore it is ſaid to be all his ſalvation and all his deſire not only touching himſelf but his houſe and children alſo: When he reflected upon the great diſorders and miſcarriages which were amongſt them. 2. To go up far high<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="15" facs="tcp:106885:9"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> higher than
+<hi>Davids</hi> time. Our great Grand<g ref="char:EOLhyphen"/>mother <hi>Eve</hi> alſo did thus eye and improve the gra<g ref="char:EOLhyphen"/>cious promiſe of God as made not only with refe<g ref="char:EOLhyphen"/>rence to
+<hi>Adam</hi> and <hi>her,</hi> but to their Infant-Church ſeed:
+<hi>Abel</hi> being ſlain and <hi>Cain</hi> having rejected the grace of the promiſe; when her Infant <hi>Seth</hi> was born ſhe believed that God had for his cove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant's ſake looked graciouſly upon her in that In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant of hers, and ſhe called his name <hi>Seth,</hi> for (ſaith
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e) God hath appointed me another ſeed inſtead <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Abel</hi> whom <hi>Cain</hi> ſlew, <hi>Gen.</hi> 4 25. This ſhe ſpake
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f him not as a meer natural child (born accord<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to the courſe of nature) but as of a Covenant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Church-ſeed, and therefore ſhe compares him
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Abel</hi> and not to
+<hi>Cain,</hi> and calls him by ſuch a
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me as ſignified her faith touching the Covenant<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate and intereſt of this Infant, nor did ſhe there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> fail of her faith and hope as appears <hi>verſ.</hi>
+26. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. This was likewiſe the practice of other parents <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>embers of the Church of God: <hi>Lamech,</hi> when <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oah</hi> was born, looking to the promiſe of God
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve his Infant the name of
+<hi>Noah, Gen.</hi> 5.28.29. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lieving that that Child ſhould be as it were a
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot to the Church and people of God, though the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rrupt wicked world ſhould be deſtroyed. 4. <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s for <hi>Abraham</hi> the father of the faithful, there
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no queſtion to be made but that he exerciſed <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th in Gods Covenant both for himſelf and his
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, the covenant being expreſly renewed with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and his Infant-ſeed <hi>Gen.</hi> 17.7,8, <hi>&amp;c.</hi> Which
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s an everlaſting gracious covenant: And this <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>venant did comfort and ſupport <hi>Abraham</hi> in re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ence to his poſterity and made him put up that
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ly wiſh and prayer mentioned
+<hi>ver.</hi> 18. <hi>O that<pb n="16" facs="tcp:106885:10"/>Iſhmael might live in thy ſight!</hi> But yet long be<g ref="char:EOLhyphen"/>fore <hi>Abraham</hi> was born, this was the practice of the ſervants of God, even in dark times; when the Covenant and promiſes were not ſo clearly revealed, and much more ought it to be our practice now.</p>
+            <p>5. It is further evident that the Saints of old did exerciſe faith, touching the Foederal eſtate or Covenant-intereſt of their children, by comparing <hi>Pſal.</hi> 102.25,26,27,28. with <hi>Heb<g ref="char:punc">▪</g>
+               </hi>
+1.10,11,12. which referrs to Jeſus Chriſt the Surety and Mediator of the Covenant, in whom they pleaded with God, and expected a Bleſſing from him for their children, and that by vertu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Gods Gracious Covenant: Nor was it meer<g ref="char:EOLunhyphen"/>ly a temporal vaniſhing good to their children which they looked for and expected, but tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their children might be eſtabliſhed before Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Spiritual Bleſſings of the Covenant, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you may ſee in that <hi>Pſalm</hi> 102.
+<hi>Verſe</hi> 25, 26, 27 28. compared together. And there is the li<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ground for the exerciſe of our Faith in the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>venant, touching our Infants now under t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> New Teſtament Adminiſtration.</p>
+            <p>For the fuller ſatisfaction herein, I will l<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> down theſe five Propoſitions.</p>
+            <p>
+               <hi>Propoſ.</hi> 1. That children are ſo comprehend<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and involved in their Parents, by the diſpen<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion of God, that the Parents act is counted t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> childrens act, and the Parents neglect, th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> neglect; as we may plainly ſee in the caſe of C<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cumciſion; <hi>That Soul ſhall be cut <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff that is
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> circumciſed, for he hath broken my Covenant,</hi> ſa<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Lord: <hi>Gen.</hi> 17.14. And yet the Infant hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelf<pb n="17" facs="tcp:106885:10"/>was not capable of a perſonal neglect. And though our Saviour required perſonal Faith in grown ones, as to their own bodily cure; yet as for their children, it was accepted when their Parents believed on their behalf: <hi>John</hi> 4.50,51.
+<hi>Mark</hi> 9. <hi>v.</hi> 12. to 18. <hi>Matth.</hi> 15 22. to 29. Not that the Parents Faith is meritorious; only this we ſay, That upon a Believers accepting the Co<g ref="char:EOLhyphen"/>venant for himſelf and his Seed, there doth re<g ref="char:EOLhyphen"/>ſult (in the ſence formerly expreſſed) not only a perſonal right to a mans ſelf, but a parental right alſo to his children, ſo as to render them capable of ſome privileges of the Covenant.</p>
+            <p>
+               <hi>Propoſ.</hi> 2. That this is one part or branch of the Goſpel of Chriſt (which is to be preached in the extent and latitude of it:) Namely, that the Infants of Believers are Confoederates in and with their Parents, being taken into one and the ſame Covenant together with their Parents. What is the Goſpel of Chriſt, (I pray you) but good News, Glad Tydings, a Joyful Meſſage? And is it not good news that God hath made a Gracious Covenant with us and our children? And that God owns and hath reſpect not only to us, but alſo to our little ones? As when one conveys or makes over a Houſe or a piece of Land to a man and the Heirs of his Body; it is a far greater privilege, and more acceptable to the Grantee, than if it were only made over to the man himſelf. And in this latitude and extent the Goſpel or Covenant of Grace was eyed and improved by the faithful from the beginning of the world (as I have ſhewed:) And ſo it ſhall be in the purer times of the Goſpel, towards the<pb n="18" facs="tcp:106885:11"/>end of the world, when the power of Anti<g ref="char:EOLhyphen"/>chriſt is deſtroyed; and when <hi>all the Kingdoms of this world are become the Kingdoms of Chriſt: Rev.</hi> 11.15. When nations ſhall flow into the Church of Chriſt; <hi>And the mountains of the Lords houſe ſhall be eſtabliſhed in the top of the mountains, and exalted above the hills. Iſaiah</hi> 2.2,3. Parents then ſhall not only offer up and dedicate themſelves, but<g ref="char:punc">▪</g> their children to the Lord: And ſhall not only plead the Covenant for themſelves, but for their children alſo before the Lord.</p>
+            <p>
+               <hi>Propoſ.</hi> 3. This being the true Goſpel (in the full latitude and extent of it) our Bleſſed Saviour did accordingly command his Diſciples to preach and publiſh it to the Nations: <hi>They muſt go and teach all nations, Baptizing them. Matth.</hi> 28.19. Compared with
+<hi>Mark</hi> 16.15. <hi>Gal.</hi> 3.8,9. <hi>Rom.</hi> 1.16,17. They were to open and declare the whole Covenant in the largeneſs and extenſiveneſs of it: Namely, the Covenant that was made with <hi>Abraham,</hi> whereof this was the chief branch, <hi>I will be a God to thee, and to thy ſeed after thee:</hi> And this they were to teach all nations; whereas before the Church was limited to one nation; now their Commiſſion was extended to all nations, teaching and baptizing them; whoever in the Gentile nations ſhall take hold on the Cove<g ref="char:EOLhyphen"/>nant, they and their children ought to be ad<g ref="char:EOLhyphen"/>mitted members of the viſible Church of Chriſt, and baptized. In the times of the Old Teſta<g ref="char:EOLhyphen"/>ment only one nation of the Jews were viſibly the people of God, in Covenant with him; but<pb n="19" facs="tcp:106885:11"/>now other nations are taken in likewiſe accord<g ref="char:EOLhyphen"/>ing to that Goſpel promiſe: <hi>Iſaiah</hi>
+19.23,24,25. And indeed in every nation the children make a conſiderable part of the nation, and are always included under every Adminiſtration to the nation; whether Promiſes or Threatnings, Privileges or Burthens, Mercies or Judgments, unleſs they be particularly excepted. Children were included and taken in with their Parents under the former Adminiſtration, (as hath been clearly demonſtrated:) And there is no Scri<g ref="char:EOLhyphen"/>pture which proves that the Infants of Believers are excepted or left out in the New Adminiſtra<g ref="char:EOLhyphen"/>tion of the Covenant; nay it appears from di<g ref="char:EOLhyphen"/>vers Texts of Scripture, that the Infants of Be<g ref="char:EOLhyphen"/>lievers do viſibly belong to the Kingdom, School and Family of Chriſt. And whereas ſome of our diſſenting Brethren object, that it behoved the Lord to give a Precept for putting Infants into the New Adminiſtration of the Covenant, if he had intended they ſhould have been in<g ref="char:EOLhyphen"/>cluded; it may be eaſily anſwered, that they al<g ref="char:EOLhyphen"/>ways had a right to be reputed as belonging to the viſible Church and Kingdom of God, and therefore there needs no new putting in by any new Grant, ſeeing there is no Barr made in Scri<g ref="char:EOLhyphen"/>pture againſt their viſible Church memberſhip: Once they were in, and where find we that ever they were put out, or excluded?</p>
+            <p>
+               <hi>Propoſ.</hi> 4. As Chriſt commanded the Goſpel, or New Covenant to be thus preached (as ex<g ref="char:EOLhyphen"/>tending to Believers and their Seed:) So it was accordingly preached and held forth by the A<g ref="char:EOLhyphen"/>poſtles in their Miniſtry. The New Covenant<pb n="20" facs="tcp:106885:12"/>being good news and glad Tydings, not only to the Believer touching himſelf, but touching his children alſo: As it was glad tydings to <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> not only that God had promiſed mercy to himſelf, but to his Houſe alſo, for a great while to come. 2
+<hi>Sam.</hi> 7.19. That the Goſpel was thus preached by Chriſt and his Apoſtles doth plainly appear, when <hi>Zacheus</hi> was become a child of
+<hi>Abraham,</hi> (to wit, by Faith) the Lord Jeſus promiſed Salvation to him and his Houſe: <hi>Luke</hi> 19.9. <hi>This day Salvation is to this houſe:</hi> (So it may be rendred) And the Apoſtle <hi>Peter Acts</hi>
+2.38.39. Exhorts his hearers <hi>to repent and be baptized,</hi> and makes uſe of an Argument to perſwade them thereunto, taken from the be<g ref="char:EOLhyphen"/>nefit that ſhould redound to their Poſterity, <hi>for the promiſe is to you and to your children:</hi> If the Jews that are near, or the Gentiles that are afar off obey the call of God, and own the Co<g ref="char:EOLhyphen"/>venant in the new Adminiſtration thereof; then the promiſe is not only made to them, but to their children alſo: And thus <hi>Paul</hi> and <hi>Silas</hi> did preach the Goſpel to the Jaylor, <hi>Believe on the Lord Jeſus Chriſt, and thou ſhalt be ſaved and thine houſe: Acts</hi> 16.31. And this is the ſame Goſpel in ſubſtance which God preached long before to <hi>Abraham,</hi> when he promiſed to be a God to him and his Seed: This was that Cove<g ref="char:EOLhyphen"/>nant which was confirmed of God in Chriſt, long before the giving of the Law on Mount
+<hi>Sinai: Gal.</hi> 3.16,17. Which Covenant (being ſo confirmed) is no other than the Goſpel of Chriſt, which is come upon the Believing Gen<g ref="char:EOLhyphen"/>tiles;
+<hi>Gal.</hi> 3.13,14. Where the Apoſtle tells<pb n="21" facs="tcp:106885:12"/>us that
+<hi>the Bleſſing of Abraham</hi> (which extends to Believers and their Seed) <hi>is come upon the Gentiles.</hi>
+            </p>
+            <p>
+               <hi>Propoſ.</hi> 5. It is therefore a ſinful neglect, and undervaluing of the Grace and Salvation, and great privileges held forth in the Covenant, when Chriſtian Parents do not believe the pro<g ref="char:EOLhyphen"/>miſes that are made not only to themſelves, but to their Seed: That Salvation which the Lord Jeſus himſelf, and his Apoſtles preached, and which thoſe neglected.
+<hi>Heb.</hi> 2.3. It was not barely Salvation it ſelf, but the Covenant and Promiſe holding the ſame forth; for ſo we find <hi>Acts</hi> 28.28. That the Salvation to be preached to, and heard by the Gentiles, was the Goſpel-Covenant and Promiſes, which contain and hold forth that Salvation: And this is that Mercy, Riches and Salvation which is come up<g ref="char:EOLhyphen"/>on the Gentiles.
+<hi>Rom.</hi> 11.11,12,17,19,30. <hi>Gal.</hi> 3.14. So likewiſe Gods Salvation in <hi>Iſaiah</hi> 51.6,8. Is his Covenant or Promiſe, on which their Salvation doth depend, as <hi>Calvin</hi> obſerves upon the Text: So
+<hi>David</hi> ſpeaking of the Co<g ref="char:EOLhyphen"/>venant, in reference not only to himſelf, but to his Houſe, ſaith, <hi>This is all my Salvation, and
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll my deſire, though he make it not to grow:</hi> 2 <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am.</hi>
+23.5. This Covenant contained all his
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alvation, which you ſee referrs not only to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, but to his Houſe; and it hath been the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ivilege and practice of the Saints all along,
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>us to plead and improve the Covenant, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fourth Conſideration that I have now done
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ith.</p>
+            <p>Fifthly, Conſider I beſeech you, that the Saints
+<pb n="22" facs="tcp:106885:13"/>priviledges under the new and better adminiſtra<g ref="char:EOLhyphen"/>tion of the Covenant are many ways augmented and enlarged of what they were in the times of the old Teſtament; whereas the opinion of thoſe bre<g ref="char:EOLhyphen"/>thren who deny the Covenant-intereſt and Baptiſm of believers children doth exceedingly ſtraiten and diminiſh the priviledges of believers: It being a great and comfortable priviledge to us that not only we but our children do belong to the viſible church and kingdom of God, and have a viſible right to and intereſt in the Covenant of Grace (whatever is pretended to the contrary) let theſe four things be diligently and impartially weighed by our brethren. 1. Would it not have grieved the believing Jews exceedingly, to have had their poor babes excluded from the outward priviledge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and adminiſtration of the Covenant ſince the co<g ref="char:EOLunhyphen"/>ming of Chriſt, when they were ſure that their chil<g ref="char:EOLunhyphen"/>dren had relation to and intereſt in the covenan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Church of God before the coming of Chriſt<g ref="char:punc">▪</g> not only themſelves in their own perſons but thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> children alſo were comprehended in the viſibl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> adminiſtration of the Covenant: Truly in thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> caſe the believing Jews might well be offende<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (in a rational way) with the new adminiſtratio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the covenant. Suppoſe a man in his former gra<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or conveyance had his children included, but no<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in a new grant they are left out and excluded<g ref="char:punc">▪</g> will ſuch a man be willing to give up his form<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> grant and accept of the new grant, or rather wi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he not look upon it as a great infringement of h<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> priviledge? It is juſt ſo here, if the Covenant no<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> under the new adminiſtration do not external<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> belong to the Infants of believers (as it did to t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="23" facs="tcp:106885:13"/>Infants of the Jews) it may well be look'd on as a great infringement of their priviledge. 2. Where<g ref="char:EOLhyphen"/>as our diſſenting brethren ſay that the <hi>Jews</hi> indeed had this priviledge, that their children were reck<g ref="char:EOLhyphen"/>oned in the outward adminiſtration of the Cove<g ref="char:EOLhyphen"/>nant as branches of the Olive, but the believing <hi>Gentiles</hi> have not this priviledge. Is not this to a<g ref="char:EOLhyphen"/>bridge and ſtraiten the priviledge of <hi>Gentile</hi> be<g ref="char:EOLhyphen"/>lievers, yea and of the believing <hi>Jews</hi> themſelves (with reference to their children) who take hold on Chriſt and the Govenant now under the new adminiſtration thereof? But let any man produce if he can one text or ſyllable out of the word of God, where the priviledges of Believers under the Goſpel are ſtraitned and cut ſhort touching their Infants viſible right to the covenant and Church of God and the initiatory ſeal thereof: Once the children of believers had this priviledge, let it be ſhewed when and where it was taken away and a<g ref="char:EOLhyphen"/>boliſhed. 3. Such as go about to deprive believ<g ref="char:EOLhyphen"/>ing Parents of ſo great a ſhare of their comfort (in reference to their poor babes) had need produce clear teſtimony out of Gods word to convince and perſwade them, becauſe next to the glory of God and the ſalvation of their own ſouls, their childrens intereſt in the Covenant is one of the greateſt benefits and privileges which believers have from the Covenant of Grace, namely, to have their children viſibly to belong to Gods fami<g ref="char:EOLhyphen"/>ly and kingdom and not to Satans, children being a great treaſure to their Parents and the ſalvation of their ſouls very dear and precious to them. But 4. The Apoſtle <hi>Paul</hi> tells us plainly, that <hi>the bleſſing of Abraham is come on the Gentiles<pb n="24" facs="tcp:106885:14"/>through Jeſus Chriſt, Gal.</hi>
+3.14. Which ſhews that in this reſpect the priviledges of believing Gentiles are not leſſened or abridged (now under the new Teſtament adminiſtration) what is this bleſſing of <hi>Abraham</hi> but Gods gracious Covenant and promiſe that he will be a God to us and to our ſeed? If this covenant and promiſe belong not now to believers children in their Infancy, then ſaints under the New Teſtament do not fully partake of the bleſſing of <hi>Abraham,</hi> then are they deprived of a great and precious privilege which did belong to believers in the old Teſtament. If it be ſaid, this bleſſing comes upon believers children when the children themſelves believe, the ſame may be ſaid of the children of
+<hi>Pagans,</hi> who when they actually believe may as well claim the promiſe to belong to them as believers children may when themſelves do believe. And therefore certainly this bleſſing of <hi>Abraham,</hi> this covenant bleſſing doth include and not exclude the Infants of believers, o<g ref="char:EOLhyphen"/>therwiſe they had that advantage and priviledge before the coming of Chriſt which they have not ſince. And ſhall we think that the Lord Jeſus who is a propitiation for the ſins of the world, and hath broken down the partition wall that was between Jews and Gentiles, who was ſo compaſ<g ref="char:EOLhyphen"/>ſionate and tender-hearted to all ſorts of people, when he was upon earth, did come into the world and die the curſed death of the croſs that he might leſſen and abate our privileges and comforts and the grounds of our hope touching the Covenant-intereſt and ſalvation of our poor Infants? far be it from us to entertain ſuch a thought.</p>
+            <p>Sixthly, Conſider further, that the Jews them<g ref="char:EOLunhyphen"/>ſelves
+<pb n="25" facs="tcp:106885:14"/>in the later days ſhall be converted to Chriſt with
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ect unto, and by vertue of the Covenant, which was <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e with their Fathers: <hi>Rom.</hi> 11.25,26,27,28.
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere the Apoſtle ſaith,
+<hi>That when the Fulneſs of the
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iles is come in, then ſhall all Iſrael be ſaved:</hi> and this
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll be in reſpect of Gods Grace and love, even his Co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nted Grace and Love with their Fathers: If the
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dren of godly Parents be not in Covenant before they <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ally believe, (according to the opinion of our diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing Brethren) truly then, there are two or three dif<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ties in this eleventh Chapter to the Romans, which <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot be anſwered nor cleared. The firſt Difficulty is
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, How God in the New Teſtament ſhould convert the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erity of <hi>Abraham, Iſaac</hi> and <hi>Jacob</hi> out of his love <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Fathers, and with reſpect to his Gracious Cove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, made with their Fathers; and yet no child is par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er of Grace by the Covenant of his Fathers, till him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doth actually believe: How can this hang together<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot Converſion and Faith here made a fruit and effect
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods love, his convenanted love unto their Fathers, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Fathers ſake unto their Seed? Secondly, If God
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is Covenant hath no reſpect here to the natural Seed<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Branches, (as our Brethren pretend) why then ſhould
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Apoſtle <hi>Paul</hi> call the Jews the natural Branches of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good Olive tree, and make their Converſion much <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e kindly, and as it were more eaſie and natural, than
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Converſion of the Gentiles was? Thirdly, if the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trivance of foederal intereſt from believing Parents, to
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ir natural children (now under the New Teſtament) be <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>yed and rejected, how can the Apoſtles Argument here
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> anſwered; whereby he proves the Converſion and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ineſs of the Jews in future ages, from the holineſs of
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ir godly Anceſtors in times paſt? <hi>If</hi> (ſaith he) <hi>the
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing away of the Jews was the reconciling of the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ld; what ſhall the receiving of them be, but life
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the dead? Rom.</hi> 11.15. That there ſhall be ſuch <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ceiving of them, he proves from the Holineſs, which
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Inſtitution of God) is derived from the Firſt <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>its to the whole Lump; and by the Covenant of God,<pb n="26" facs="tcp:106885:15"/>from the Root to the Branches: <hi>Verſe</hi> 16. For (ſai<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he) <hi>If the firſt fruits be holy ſo is the whole lump,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if the root be holy ſo are the branches:</hi> The force a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſtrength of this argument depends wholly on the Covena<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of grace and the continuation thereof from godly pare<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to their natural children now in the days of the new T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtament; and this receiving or taking in of the Jews
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the latter days doth take in their children alſo by ve<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Gods Covenant made with their godly anceſtors, a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> accordingly it is prophecied and promiſed, that the Je<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſhall be converted and their children alſo ſhall be as afo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> time. <hi>Jer.</hi> 30.20. And that in <hi>Ezekiel, chap,</hi> 37. ve<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 20.21,25,27. is very remarkable, when the ſcatter<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> tribes of
+<hi>Iſrael</hi> and <hi>Judah</hi> ſhall become as the two ſli<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> joyned in one (in eccleſiaſtical reſpects) the Lord wi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> reference to that time, renews the old charter of <hi>Abr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>hams</hi> Cevenant to be a God to them: In which prom<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he includeth their children, they being alſo together w<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their Parents ſcattered among the heathen, and to be g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>thered under Chriſt as their Prince and Head, which g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>thering and converſion of theirs, ſhall be by vertue of t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Covenant made with their fathers, ſo that the child<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> belong to the Covenant and the Covenant belongs to th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> before they actually believe.</p>
+            <p>Seventhly, Conſider the great abſurdities and evil co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſequences which muſt needs follow from the denying
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believers Infants viſible right to the Covenant of gra<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and their viſible Church-memberſhip. 1. It exclu<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them all from the ordinary way and means of Salvation<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> being neither in the viſible Church of Chriſt (out of whi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ordinarily there is no ſalvation) nor in the Covenant
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grace ſo much as externally in reſpect of Gods viſible <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>penſation. In this caſe what ordinary means is left
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their ſalvation? the promiſes of God (we know) are ma<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to the Church; and God hath appointed and ordered
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpiritual good things to be conveyed to us and ours i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Covenant way and by virtue of the Covenant, 1 <hi>Sam.</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 5. <hi>Epheſ.</hi> 3.8,9.
+<hi>Iſai.</hi> 42 6. <hi>Iſai.</hi> 49.6.7,8. <hi>Zach.</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 11. Chriſt himſelf is the Mediator of the new Coven<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="27" facs="tcp:106885:15"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Teſtament <hi>Heb.</hi> 9.15. <hi>Heb.</hi> 12.24. If therefore Be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers Infants have no viſible intereſt in this Covenant, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they have no viſible intereſt in Chriſt as Mediator, for
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is Mediator of no other Covenant but this; the buſineſs
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ich he tranſacts as Mediator is to confirm this Covenant <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and in the behalf of all thoſe for whom he is Mediator, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 9.24. <hi>Rom.</hi> 15 8. Nor can any partake of the ſpi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of God and influence thereof, but by and from the
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>enant of grace, 2 <hi>Pet.</hi>
+1.4. Nor of a glorious re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ection and bleſſed eſtate but by vertue of the Covenant, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll be their God, Luk.</hi> 20
+36.37,38. <hi>Heb.</hi> 11.16. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts</hi> 26.6.7. Now if this ſort of perſons (I mean the
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cies of Infants) be excluded from a viſible intereſt in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Covenant and promiſes, truly then there is no viſible
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nor means left for their Salvation. 2. If only adult <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gentiles who actually believe and are converted
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ade nigh by the blood of Chriſt in reſpect of Cove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t and Eccleſiaſtical holineſs, it will argue that that ſort
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perſons only were actually ſtrangers before, and not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeed with them, (whether individually or ſpecifi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y conſidered) <hi>Eph.</hi> 2.11 12,13. Nay this ſuppoſeth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt took down the partition wall (as it ſtood) only
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een grown Jews and adult Gentiles, but as for the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dren of believing Gentiles, it argues that either there
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no ſuch partition wall betwixt them and the Infants <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Jews<g ref="char:punc">▪</g> or that it remains untaken down to this day:
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thus to ſuppoſe, what is it elſe but a vain imagination <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rary to the word of God? 3. To deny the Covenant-<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſt of believers Infants implyeth that there are two <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ct Covenants of grace (beſides the ſubſervient Cove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on mount <hi>Sinai</hi>) one Covenant made with the faith-<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d their ſeed of old, another with us (excluding our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeed) and theſe two Covenants eſſentially different
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the other: But this were abſurd to imagine, <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iſt being the ſubſtance of the Covenant of Grace both
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er the old and new adminiſtration thereof. The new
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ſealing the Covenant by Baptiſm (when firſt inſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d) was preciſely with reſpect to the Jews, Gods peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> old, <hi>Joh.</hi> 1.33.
+<hi>Matth.</hi> 3.1. <hi>John.</hi> 4.1. compared <pb n="28" facs="tcp:106885:16"/>with
+<hi>Matth.</hi> 10.5.6. to ſhew us that no other Coven<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in ſubſtance is now ſealed by Baptiſm than what was ma<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> formerly with
+<hi>Abraham</hi> and his poſterity, <hi>Luk.</hi> 1.5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 55,68.69,70,71,72,73. <hi>Acts.</hi> 2.38,39. Now if
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was one and the ſame Covenant in ſubſtance, it will t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> unavoidably follow, that either the Infants of the Je<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were not in Gods Covenant together with their pare<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (whereas it is evidently proved that they were) or t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their being in Covenant was meerly ceremonial and ty<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cal and ſo is aboliſhed. But grant that the way of ſeal<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Covenant to them was ceremonial, yet what cerem<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> could there be in this great promiſe, <hi>I will be a God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee and to thy ſeed after thee in their generations?</hi> Do<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>leſs this contains a principal ſubſtantial part of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Covenant it ſelf: Or elſe it will follow that the Infant<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> believing Gentiles are now in Gods Covenant and me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bers of his viſible Church, together with their Pare<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Covenant being ſtill one and the ſame in ſubſta<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+4. If the Infants of believers now have no viſible righ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Covenant and Church of God, will not God he<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be made a reſpecter of perſons, looking at the Jews <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their children in the times of the old Teſtament as be<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in Covenant with him, but not ſo regarding the Infant<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Covenanting believing Gentiles in the times of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Teſtament? And whereas he is ſaid to be a God to all
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> families of his people,
+<hi>Jer.</hi> 31.1. according to this
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nion he is not a God in Covenant to any more than part<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lar perſons actually believing and profeſſing their faith
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not ſo much as by outward eccleſiaſtical adminiſtratio<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the children of his people, which are the choiceſt part
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> p op of their families whereby the Lord God buildet<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their families. 5. This will alſo aboliſh and take
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that diſtinction which all along hath been obſerved in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> throughout the holy Scriptures, for by this mean<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeed of the woman and the ſeed of the ſerpent in the y<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lings and branches thereof will be mingled and confo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed together. There will be no diſtinction of the S<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God and of men, of the ſeed of <hi>Iſaac</hi> and <hi>Iſhmael</hi> i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Infant part thereof, no Church diſtinction of chil<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="29" facs="tcp:106885:16"/>clean and unclean: which the bleſſed Apoſtle counts an abſurd thing, 1 <hi>Cor.</hi> 7.14. <hi>Elſe your children were un<g ref="char:EOLhyphen"/>clean</hi> [<hi>i. e.</hi> like the children of Pagans, and infidels, in no better caſe than they] <hi>but now they are holy.</hi> All mens children by nature are children of wrath one as well as a<g ref="char:EOLhyphen"/>nother: And therefore if we take away the diſtinction be<g ref="char:EOLhyphen"/>tween Infants and Infants in reſpect of their Covenant-in<g ref="char:EOLhyphen"/>tereſt and Church-memberſhip, then they are mingled and confounded together, I mean the Infants of Turks, Pagans and Chriſtians one as well as another, as having their actual ſtanding in the viſible kingdom of Satan.</p>
+            <p>Conſider (I humbly beſeech you in the bowels of Chriſt) what hath been ſeriouſly written unto you, and the Lord give you much of that wiſdom which is pure and peaceable eaſie to be intreated; and without partiality. I will now con<g ref="char:EOLhyphen"/>dude this paper with two or three inferences or confectaries which may be genuinely deduced from the foregoing con<g ref="char:EOLhyphen"/>ſiderations.</p>
+            <p>Firſt, Hence we have cauſe greatly to admire the ri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes of Gods grace in the Covenant as extending not only <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o us but to our children alſo: O the tender mercy and
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompaſſion of God towards our little babes! O what ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our hath God put upon his ſaints thus to entayl the viſible
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dminiſtration of his grace on them and theirs! He hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot ſo dealt with Pagans and unbelievers, what advantage
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath viſible believers and their Infants above others? much <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ery way, to them are committed the Oracles of God,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have viſible right to and intereſt in the Covenant and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>romiſes of God, <hi>Rom.</hi> 3.1.2,3. As the Infant-children
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f heathen and wicked men do viſibly belong to the king<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om of Satan, ſo the Infant-children of the godly, do viſibly
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elong to the kingdom of Chriſt,
+<hi>Luk.</hi> 18.16.</p>
+            <p>II. Let believers therefore duly and conſtantly plead and
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>prove the Covenant of grace in the new diſpenſation of it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only for themſelves, but for their little ones, for as the Covenant is held forth in ſcripture in this large and com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rehenſive manner, ſo accordingly we ſhould plead it with God in the exerciſe of our faith and prayers. And if Chri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ans would believe more and diſpute leſs. Idoubt not but <pb n="30" facs="tcp:106885:17"/>it would contribute much to the ſilencing of this and th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> controverſies among the Saints: Lord, thou haſt made a g<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cious Covenant not only with me but with my poor bab<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> remember thy promiſe and make it effectual to their ſo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> let them not only partake of the outward adminiſtration,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the inward ſaving grace of the covenant, although <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> houſe be not ſo with God as it ought to be yet Lord rem<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ber thy gracious Covenant for me and mine.</p>
+            <p>III. Chriſtian parents ſhould be hence encouraged to
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vote their children to the Lord and to educate &amp; train t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> up in the fear and nurture of the Lord, <hi>Eph.</hi> 6.4. ſeeing
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are taken into Chriſts ſchool and family, and are owned
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him as members of his viſible kingdom, O let not par<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſuffer their children to take Gods name in vain, to pro<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Lords day, to abuſe and revile his ſervants: I
+<hi>know</hi> (ſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Lord)
+<hi>that Abraham will command his children and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> houſhold after him to keep the way of the Lord. Gen.</hi> 18.<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>chuſe you this day</hi> (ſaith <hi>Joſhua</hi>) <hi>whom ye will ſerve, but a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> me and mine houſe we will ſerve the Lord, Joſ.</hi> 24.15.
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould be our reſolution, and accordingly we ſhould te<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> our children the fear of the Lord and inſtruct them conc<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing the nature, properties, privileges, and duties of the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>venant of grace and the feals thereof, Baptiſm and the L<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſupper, as the Jews inſtructed their children touching
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inſtitution, uſe and end of the paſſover. <hi>Exod</hi> 13.14.</p>
+            <p>IV. and laſtly, We ſhould hence be admoniſhed to
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ware of and avoid thoſe doctrines that ſtraiten and cut ſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Saints privileges under the new Teſtament admini<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion and exclude and ſhut out our Infants from a viſibl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tereſt in the covenant of grace, and ſo leave us witho<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ny viſible ground of hope (from Gods revealed will i<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Scriptures) touching their ſalvation, if they happen t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in their Infancy, for what viſible ground of hope can t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be in reference to them if they have no viſible right t<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Covenant and promiſes of God. But bleſſed be the nam<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Lord who has not left us without viſible ground of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> touching our poor Infants. Nor ſhould we mourn for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (ſo dying) as thoſe mourn that are without hope.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
